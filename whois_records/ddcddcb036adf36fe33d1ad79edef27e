@@ -1,0 +1,13 @@
+{
+  "domain_name": "propiedadesallende.cl",
+  "registrant_name": "Claudia Allende Pinto",
+  "registrant_organization": null,
+  "registrar": "NIC Chile",
+  "registrar_url": "https://www.nic.cl",
+  "creation_date": "2016-07-07 23:25:34",
+  "expiration_date": "2022-07-07 23:25:34",
+  "name_servers": [
+    "ns41.benzahosting.cl",
+    "ns42.benzahosting.cl"
+  ]
+}

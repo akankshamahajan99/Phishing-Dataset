@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "SOPAN3100.COM",
+    "Sopan3100.com"
+  ],
+  "registrar": "DropCatch.com 405 LLC",
+  "whois_server": "whois.NameBright.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-06-29 05:23:47",
+    "2020-06-28 00:00:00"
+  ],
+  "creation_date": "2017-07-31 18:15:09",
+  "expiration_date": [
+    "2021-07-31 18:15:09",
+    "2021-07-31 00:00:00"
+  ],
+  "name_servers": [
+    "NS1.BANBAN.INFO",
+    "NS2.BANBAN.INFO",
+    "ns1.banban.info",
+    "ns2.banban.info"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@NameBright.com",
+    "whois@themis.com.sg"
+  ],
+  "dnssec": "unsigned",
+  "name": "Whois Privacy",
+  "org": null,
+  "address": "120 Robinson Road",
+  "city": "Singapore",
+  "state": "Central Singapore",
+  "zipcode": "068913",
+  "country": "SG"
+}

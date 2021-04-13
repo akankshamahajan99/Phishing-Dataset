@@ -1,0 +1,42 @@
+{
+  "domain_name": "NIZARKHALILI.COM",
+  "registrar": "DNC Holdings, Inc",
+  "whois_server": "whois.directnic.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-04-15 08:04:46",
+    "2020-04-15 03:04:46"
+  ],
+  "creation_date": [
+    "2010-05-30 15:40:21",
+    "2010-05-30 10:40:21"
+  ],
+  "expiration_date": [
+    "2021-05-30 15:40:21",
+    "2021-05-30 10:40:21"
+  ],
+  "name_servers": [
+    "NS1.A2HOSTING.COM",
+    "NS2.A2HOSTING.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)"
+  ],
+  "emails": [
+    "abuse@directnic.com",
+    "nizarkhalili.com@domainvault.io"
+  ],
+  "dnssec": "unsigned",
+  "name": "Direct Privacy - e8e9b",
+  "org": "Savvy Investments, LLC Privacy ID# 13798444",
+  "address": "1712 Pioneer Avenue, Suite 1337",
+  "city": "Cheyenne",
+  "state": "WY",
+  "zipcode": "82001",
+  "country": "US"
+}

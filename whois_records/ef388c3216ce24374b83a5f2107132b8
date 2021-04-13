@@ -1,0 +1,15 @@
+{
+  "domain_name": "robertcraigactive.co.uk",
+  "registrar": "Hosting Concepts B.V. [Tag = REGISTRAR-EU]",
+  "registrar_url": "https://www.openprovider.com",
+  "status": "Renewal required.",
+  "registrant_name": null,
+  "registrant_type": null,
+  "registrant_street": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "creation_date": "2019-08-29 00:00:00",
+  "expiration_date": "2020-08-29 00:00:00",
+  "updated_date": "2019-08-29 00:00:00",
+  "name_servers": "ns1.openprovider.nl"
+}

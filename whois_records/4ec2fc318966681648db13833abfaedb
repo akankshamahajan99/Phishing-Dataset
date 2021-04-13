@@ -1,0 +1,41 @@
+{
+  "domain_name": [
+    "WEBSITETESTLINK.COM",
+    "websitetestlink.com"
+  ],
+  "registrar": "ENOM, INC.",
+  "whois_server": "WHOIS.ENOM.COM",
+  "referral_url": null,
+  "updated_date": "2019-10-04 12:00:08",
+  "creation_date": [
+    "2005-08-31 06:39:59",
+    "2005-08-31 06:39:00"
+  ],
+  "expiration_date": [
+    "2022-08-31 06:39:59",
+    "2022-08-31 06:39:00"
+  ],
+  "name_servers": [
+    "NS.LIQUIDWEB.COM",
+    "NS1.LIQUIDWEB.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "skvwytcscj@whoisprivacyprotect.com",
+    "ABUSE@ENOM.COM"
+  ],
+  "dnssec": "unsigned",
+  "name": "Whois Agent (091864673)",
+  "org": "Whois Privacy Protection Service, Inc.",
+  "address": [
+    "PO Box 639",
+    "C/O websitetestlink.com"
+  ],
+  "city": "Kirkland",
+  "state": "WA",
+  "zipcode": "98083",
+  "country": "US"
+}

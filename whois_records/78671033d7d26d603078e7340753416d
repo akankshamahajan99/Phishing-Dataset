@@ -1,0 +1,29 @@
+{
+  "domain_name": "YOLINUX.COM",
+  "registrar": "Network Solutions, LLC",
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-12-17 07:28:33",
+    "2020-12-17 07:29:20"
+  ],
+  "creation_date": "2000-02-15 08:03:08",
+  "expiration_date": "2026-02-15 08:03:08",
+  "name_servers": [
+    "NS1.MEGAWEBHOST.COM",
+    "NS2.MEGAWEBHOST.COM"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@web.com",
+    "netsol@megawww.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "IPPOLITO, GREG",
+  "org": null,
+  "address": "1601 N SEPULVEDA BLVD STE 192",
+  "city": "MANHATTAN BEACH",
+  "state": "CA",
+  "zipcode": "90266-5111",
+  "country": "US"
+}

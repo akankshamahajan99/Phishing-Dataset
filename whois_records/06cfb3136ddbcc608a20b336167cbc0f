@@ -1,0 +1,16 @@
+{
+  "domain_name": null,
+  "registrar": null,
+  "registrar_url": null,
+  "registrar_iana": null,
+  "updated_date": null,
+  "creation_date": null,
+  "expiration_date": null,
+  "name_servers": null,
+  "organization": null,
+  "state": null,
+  "status": null,
+  "emails": null,
+  "country": null,
+  "dnssec": null
+}

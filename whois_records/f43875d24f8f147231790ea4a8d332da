@@ -1,0 +1,44 @@
+{
+  "domain_name": [
+    "MATHIEU-ROBERT.COM",
+    "mathieu-robert.com"
+  ],
+  "registrar": "OVH, SAS",
+  "whois_server": "whois.ovh.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-06-01 05:28:45",
+    "2020-06-01 03:28:45"
+  ],
+  "creation_date": [
+    "2019-06-18 14:41:52",
+    "2019-06-18 12:41:52"
+  ],
+  "expiration_date": [
+    "2021-06-18 14:41:52",
+    "2021-06-18 12:41:52"
+  ],
+  "name_servers": [
+    "DNS18.OVH.NET",
+    "NS18.OVH.NET",
+    "dns18.ovh.net",
+    "ns18.ovh.net"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@ovh.net",
+    "yv6jg3t3j7faie26v406@t.o-w-o.info",
+    "4d60dtc3uwk09ko3zed7@u.o-w-o.info"
+  ],
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "Trail Kr\u00e9ol",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "RE"
+}

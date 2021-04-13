@@ -1,0 +1,34 @@
+{
+  "domain_name": [
+    "ARTOFTHERUSE.COM",
+    "artoftheruse.com"
+  ],
+  "registrar": "NAMECHEAP INC",
+  "whois_server": "whois.namecheap.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-07-10 04:56:04",
+    "0001-01-01 00:00:00"
+  ],
+  "creation_date": "2020-06-26 23:14:12",
+  "expiration_date": "2021-06-26 23:14:12",
+  "name_servers": [
+    "NS1.REBELLIOUSHOSTING.COM",
+    "NS2.REBELLIOUSHOSTING.COM",
+    "ns1.rebellioushosting.com",
+    "ns2.rebellioushosting.com"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@namecheap.com",
+    "e12c386ca21c4456a7b2591cb63a8b4a.protect@withheldforprivacy.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Withheld for Privacy Purposes",
+  "org": "Privacy service provided by Withheld for Privacy ehf",
+  "address": "Kalkofnsvegur 2",
+  "city": "Reykjavik",
+  "state": "Capital Region",
+  "zipcode": "101",
+  "country": "IS"
+}

@@ -1,0 +1,26 @@
+{
+  "domain_name": "UHCOCOTTES.COM",
+  "registrar": "Network Solutions, LLC",
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-10-30 05:04:12",
+    "2019-10-30 05:04:55"
+  ],
+  "creation_date": "2011-11-19 21:12:24",
+  "expiration_date": "2021-11-19 21:12:24",
+  "name_servers": [
+    "NS1.AMENWORLD.COM",
+    "NS2.AMENWORLD.COM"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": "abuse@web.com",
+  "dnssec": "unsigned",
+  "name": "Statutory Masking Enabled",
+  "org": "Statutory Masking Enabled",
+  "address": "Statutory Masking Enabled",
+  "city": "Statutory Masking Enabled",
+  "state": null,
+  "zipcode": "Statutory Masking Enabled",
+  "country": "FR"
+}

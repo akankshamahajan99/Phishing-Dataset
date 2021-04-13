@@ -1,0 +1,15 @@
+{
+  "domain_name": "FILL-1.RU",
+  "registrar": "DOMENUS-RU",
+  "creation_date": "2008-10-29 21:00:00",
+  "expiration_date": "2021-10-29 21:00:00",
+  "name_servers": [
+    "ns1.timeweb.ru.",
+    "ns2.timeweb.ru.",
+    "ns3.timeweb.org.",
+    "ns4.timeweb.org."
+  ],
+  "status": "REGISTERED, DELEGATED, UNVERIFIED",
+  "emails": null,
+  "org": "OOO FILL-1"
+}

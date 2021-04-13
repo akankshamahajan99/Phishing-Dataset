@@ -1,0 +1,11 @@
+{
+  "domain_name": "zachod.pl",
+  "name_servers": "fns1.42.pl. [79.98.145.34]\r\r\n                       ns1.ctinet.pl. [31.179.252.30]\r\r\n                       ns3.gamp.com.pl. [52.175.221.6]\r\r\n                       radio.zachod.pl. [80.51.166.120]",
+  "registrar": "AZ.pl Sp. z o.o.",
+  "registrar_url": null,
+  "status": null,
+  "registrant_name": null,
+  "creation_date": "1998-09-23 13:00:00",
+  "expiration_date": "2021-09-22 14:00:00",
+  "updated_date": "2019-06-19 15:44:17"
+}

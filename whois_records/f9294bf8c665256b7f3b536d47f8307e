@@ -1,0 +1,14 @@
+{
+  "domain_name": "womens.ro",
+  "domain_status": "OK",
+  "registrar": "EXTREME SOLUTIONS SRL",
+  "referral_url": "www.eureg.ro",
+  "creation_date": "2018-09-16 00:00:00",
+  "expiration_date": "2022-09-15 00:00:00",
+  "name_servers": [
+    "ara.ns.cloudflare.com",
+    "ned.ns.cloudflare.com"
+  ],
+  "status": "OK",
+  "dnssec": "Inactive"
+}

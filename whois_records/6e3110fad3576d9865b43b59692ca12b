@@ -1,0 +1,48 @@
+{
+  "domain_name": "foto-yama.kiev.ua",
+  "status": [
+    "ok",
+    "linked"
+  ],
+  "registrar": "\u0422\u041e\u0412 \"\u0426\u0435\u043d\u0442\u0440 \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0406\u043c\u0435\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438\"",
+  "registrar_name": "ua.ukrnames",
+  "registrar_url": "http://www.ukrnames.com",
+  "registrar_country": "UA",
+  "registrar_city": "Kharkiv",
+  "registrar_address": "Ukraine 61024 Kharkiv P.O.B. 1823",
+  "registrar_email": "abuse@ukrnames.com",
+  "registrant_name": null,
+  "registrant_country": null,
+  "registrant_city": null,
+  "registrant_state": null,
+  "registrant_address": null,
+  "registrant_email": "not published",
+  "registrant_postal_code": null,
+  "registrant_phone": "not published",
+  "registrant_fax": null,
+  "admin": null,
+  "admin_country": null,
+  "admin_city": null,
+  "admin_state": null,
+  "admin_address": null,
+  "admin_email": "not published",
+  "admin_postal_code": null,
+  "admin_phone": "not published",
+  "admin_fax": null,
+  "updated_date": [
+    "2021-03-13 11:50:02",
+    "2021-03-13 11:48:49",
+    "2021-03-13 11:48:50"
+  ],
+  "creation_date": [
+    "2021-03-11 22:22:05",
+    "2021-03-13 09:16:10",
+    "2021-03-13 09:16:13",
+    "2021-03-13 09:16:15"
+  ],
+  "expiration_date": "2023-03-11 22:22:05",
+  "name_servers": [
+    "ns1.fozzy.com",
+    "ns2.fozzy.com"
+  ]
+}

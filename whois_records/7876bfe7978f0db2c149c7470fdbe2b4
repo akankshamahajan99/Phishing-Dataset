@@ -1,0 +1,35 @@
+{
+  "domain_name": [
+    "JABRY.COM",
+    "jabry.com"
+  ],
+  "registrar": "ENOM, INC.",
+  "whois_server": "WHOIS.ENOM.COM",
+  "referral_url": null,
+  "updated_date": "2021-01-25 09:14:13",
+  "creation_date": [
+    "2009-02-23 06:06:14",
+    "2009-02-23 06:06:00"
+  ],
+  "expiration_date": [
+    "2022-02-23 06:06:14",
+    "2022-02-23 06:06:00"
+  ],
+  "name_servers": [
+    "NS83.WORLDNIC.COM",
+    "NS84.WORLDNIC.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": "ABUSE@ENOM.COM",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "VA",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "US"
+}

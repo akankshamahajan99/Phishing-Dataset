@@ -1,0 +1,27 @@
+{
+  "domain_name": "jornalo2.com.br",
+  "registrant_name": "Jornal O\ufffd",
+  "registrant_id": null,
+  "country": null,
+  "owner_c": "LOFAB7",
+  "admin_c": null,
+  "tech_c": "LOFAB7",
+  "billing_c": null,
+  "name_server": [
+    "ali.ns.cloudflare.com",
+    "graham.ns.cloudflare.com"
+  ],
+  "nsstat": "20210403 AA",
+  "nslastaa": "20210403",
+  "saci": "yes",
+  "creation_date": "2019-08-26 00:00:00",
+  "updated_date": [
+    "2020-10-29 00:00:00",
+    "2020-10-15 00:00:00"
+  ],
+  "expiration_date": "2021-08-26 00:00:00",
+  "status": "published",
+  "nic_hdl_br": "LOFAB7",
+  "person": "Lorena Ferro de Abreu",
+  "email": null
+}

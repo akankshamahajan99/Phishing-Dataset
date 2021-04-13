@@ -1,0 +1,19 @@
+{
+  "domain_name": "acreativestudio.in",
+  "registrar": "Hosting Concepts B.V. d/b/a Openprovider",
+  "registrar_url": "www.openprovider.com",
+  "registrar_iana": "1647",
+  "updated_date": "2021-01-18 09:42:15",
+  "creation_date": "2020-05-03 14:27:14",
+  "expiration_date": "2021-05-03 14:27:14",
+  "name_servers": [
+    "ns1.dns-parking.com",
+    "ns2.dns-parking.com"
+  ],
+  "organization": "MA Group Basti",
+  "state": "UP",
+  "status": "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+  "emails": "abuse@registrar.eu",
+  "country": "IN",
+  "dnssec": "unsigned"
+}

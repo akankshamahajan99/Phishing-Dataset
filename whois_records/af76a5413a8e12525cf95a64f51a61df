@@ -1,0 +1,10 @@
+{
+  "domain_name": null,
+  "status": null,
+  "registrar": null,
+  "registrar_address": null,
+  "registrar_zip_code": null,
+  "registrar_city": null,
+  "registrar_country": null,
+  "dnssec": null
+}

@@ -1,0 +1,31 @@
+{
+  "domain_name": [
+    "WOOPERFORMANCE.COM",
+    "wooperformance.com"
+  ],
+  "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+  "whois_server": "whois.registrar.eu",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-08 04:25:37",
+    "2019-09-08 06:29:16"
+  ],
+  "creation_date": "2016-05-28 12:12:25",
+  "expiration_date": "2021-05-28 12:12:25",
+  "name_servers": [
+    "ELLE.NS.CLOUDFLARE.COM",
+    "IAN.NS.CLOUDFLARE.COM",
+    "elle.ns.cloudflare.com",
+    "ian.ns.cloudflare.com"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": "abuse@registrar.eu",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "Kibo IT EOOD",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "BG"
+}

@@ -1,0 +1,29 @@
+{
+  "domain_name": "POSITYPE.COM",
+  "registrar": "TUCOWS, INC.",
+  "whois_server": "whois.tucows.com",
+  "referral_url": null,
+  "updated_date": "2020-10-02 08:22:39",
+  "creation_date": "2002-10-04 22:26:32",
+  "expiration_date": "2021-10-04 22:26:32",
+  "name_servers": [
+    "NS1.MEDIATEMPLE.NET",
+    "NS2.MEDIATEMPLE.NET",
+    "ns1.mediatemple.net",
+    "ns2.mediatemple.net"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "positype.com@contactprivacy.com",
+    "domainabuse@tucows.com",
+    "dnsadmin@mediatemple.net"
+  ],
+  "dnssec": "unsigned",
+  "name": "Contact Privacy Inc. Customer 015522792",
+  "org": "Contact Privacy Inc. Customer 015522792",
+  "address": "96 Mowat Ave",
+  "city": "Toronto",
+  "state": "ON",
+  "zipcode": "M6K 3M1",
+  "country": "CA"
+}

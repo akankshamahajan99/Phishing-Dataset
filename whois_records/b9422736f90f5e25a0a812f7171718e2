@@ -1,0 +1,13 @@
+{
+  "domain_name": "espinakeitor.cl",
+  "registrant_name": "Alex Neira D\u00edaz",
+  "registrant_organization": null,
+  "registrar": "NIC Chile",
+  "registrar_url": "https://www.nic.cl",
+  "creation_date": "2019-06-12 11:31:41",
+  "expiration_date": "2021-06-12 11:31:41",
+  "name_servers": [
+    "ns1.cpanelhost.cl",
+    "ns2.cpanelhost.cl"
+  ]
+}

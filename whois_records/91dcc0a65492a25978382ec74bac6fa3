@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "DANATRANSLATION.COM",
+    "danatranslation.com"
+  ],
+  "registrar": "1&1 IONOS SE",
+  "whois_server": "whois.ionos.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-04-08 07:17:36",
+    "2019-03-28 09:22:55"
+  ],
+  "creation_date": "2012-04-07 10:58:57",
+  "expiration_date": "2021-04-07 10:58:57",
+  "name_servers": [
+    "NS1022.UI-DNS.BIZ",
+    "NS1045.UI-DNS.ORG",
+    "NS1097.UI-DNS.DE",
+    "NS1102.UI-DNS.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@ionos.com",
+    "dataprivacyprotected@1und1.de"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "REDACTED FOR PRIVACY",
+  "org": "1&1 Internet Inc",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "PA",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "US"
+}

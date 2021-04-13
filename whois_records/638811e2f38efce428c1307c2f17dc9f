@@ -1,0 +1,36 @@
+{
+  "domain_name": "GAMEFAQS.COM",
+  "registrar": "BRANDSIGHT, INC.",
+  "whois_server": "whois.brandsight.com",
+  "referral_url": null,
+  "updated_date": "2021-01-22 22:25:03",
+  "creation_date": "1996-09-11 04:00:00",
+  "expiration_date": "2023-09-10 04:00:00",
+  "name_servers": [
+    "NS1.BRANDSIGHT-DNS.COM",
+    "NS1.BRANDSIGHT-DNS.NET",
+    "NS2.BRANDSIGHT-DNS.COM",
+    "NS2.BRANDSIGHT-DNS.NET",
+    "ns1.brandsight-dns.com",
+    "ns1.brandsight-dns.net",
+    "ns2.brandsight-dns.com",
+    "ns2.brandsight-dns.net"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@brandsight.com",
+    "128639@BRANDSIGHTPRIVACY.COM",
+    "nonpublicwhois@brandsight.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "BRANDSIGHT PRIVACY CUSTOMER 128639",
+  "org": null,
+  "address": "PO BOX 190899",
+  "city": "BOISE",
+  "state": "ID",
+  "zipcode": "83719",
+  "country": "US"
+}

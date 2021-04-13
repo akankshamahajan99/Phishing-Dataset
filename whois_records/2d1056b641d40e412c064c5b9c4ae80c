@@ -1,0 +1,38 @@
+{
+  "domain_name": "coincoele.com.br",
+  "registrant_name": "COINCOELETRONICA LTDA",
+  "registrant_id": null,
+  "country": null,
+  "owner_c": "COL311",
+  "admin_c": null,
+  "tech_c": "GOR2",
+  "billing_c": null,
+  "name_server": [
+    "buzios.rumo.com.br",
+    "leblon.rumo.com.br"
+  ],
+  "nsstat": "20210331 AA",
+  "nslastaa": "20210331",
+  "saci": null,
+  "creation_date": [
+    "2006-09-04 00:00:00",
+    "2006-04-11 00:00:00",
+    "1998-03-05 00:00:00"
+  ],
+  "updated_date": [
+    "2015-09-04 00:00:00",
+    "2015-08-25 00:00:00",
+    "2020-04-17 00:00:00"
+  ],
+  "expiration_date": "2024-09-04 00:00:00",
+  "status": "published",
+  "nic_hdl_br": [
+    "COL311",
+    "GOR2"
+  ],
+  "person": [
+    "COINCOELETRONICA LTDA",
+    "Ger\ufffdncia de Orienta\ufffd\ufffdo a Registros"
+  ],
+  "email": null
+}

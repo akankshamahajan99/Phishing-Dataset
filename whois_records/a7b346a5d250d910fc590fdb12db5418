@@ -1,0 +1,16 @@
+{
+  "domain_name": "electro-obras.com.pe",
+  "status": "ok",
+  "whois_server": "NIC .PE",
+  "registrant_name": "EDDU MELENDEZ GONZALES",
+  "registrar": "NIC .PE",
+  "admin": "EDDU MELENDEZ GONZALES",
+  "admin_email": "eddu.melendez@gmail.com",
+  "dnssec": null,
+  "name_servers": [
+    "ns1.dnsimple.com",
+    "ns2.dnsimple.com",
+    "ns3.dnsimple.com",
+    "ns4.dnsimple.com"
+  ]
+}

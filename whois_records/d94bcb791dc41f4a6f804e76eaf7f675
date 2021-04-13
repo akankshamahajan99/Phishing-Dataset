@@ -1,0 +1,55 @@
+{
+  "domain_name": [
+    "COMCAST.NET",
+    "comcast.net"
+  ],
+  "registrar": "CSC CORPORATE DOMAINS, INC.",
+  "whois_server": "whois.corporatedomains.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-20 05:25:08",
+    "2020-09-20 01:25:08"
+  ],
+  "creation_date": [
+    "1997-09-25 04:00:00",
+    "1997-09-25 00:00:00"
+  ],
+  "expiration_date": "2021-09-24 04:00:00",
+  "name_servers": [
+    "DNS101.COMCAST.NET",
+    "DNS102.COMCAST.NET",
+    "DNS103.COMCAST.NET",
+    "DNS104.COMCAST.NET",
+    "DNS105.COMCAST.NET",
+    "dns101.comcast.net",
+    "dns105.comcast.net",
+    "dns104.comcast.net",
+    "dns103.comcast.net",
+    "dns102.comcast.net"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited"
+  ],
+  "emails": [
+    "domainabuse@cscglobal.com",
+    "hostmaster@comcast.com"
+  ],
+  "dnssec": [
+    "signedDelegation",
+    "unsigned"
+  ],
+  "name": "Comcast Domains",
+  "org": "Comcast Corporation",
+  "address": "1701 JFK Blvd.",
+  "city": "Philadelphia",
+  "state": "PA",
+  "zipcode": "19103",
+  "country": "US"
+}

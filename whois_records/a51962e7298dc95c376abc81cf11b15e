@@ -1,0 +1,21 @@
+{
+  "domain_name": "dtemaharashtra.gov.in",
+  "registrar": "National Informatics Centre",
+  "registrar_url": "http://registry.gov.in",
+  "registrar_iana": "800111",
+  "updated_date": "2019-10-16 07:07:21",
+  "creation_date": "2005-09-08 07:28:30",
+  "expiration_date": "2021-09-08 07:28:30",
+  "name_servers": [
+    "ns2-03.azure-dns.net",
+    "ns3-03.azure-dns.org",
+    "ns1-03.azure-dns.com",
+    "ns4-03.azure-dns.info"
+  ],
+  "organization": "Directorate of Technical Education, Maharashtra State",
+  "state": "Maharashtra",
+  "status": "ok http://www.icann.org/epp#OK",
+  "emails": null,
+  "country": "IN",
+  "dnssec": "unsigned"
+}

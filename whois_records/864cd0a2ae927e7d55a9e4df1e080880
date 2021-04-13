@@ -1,0 +1,37 @@
+{
+  "domain_name": [
+    "BRAINHOST.COM",
+    "brainhost.com"
+  ],
+  "registrar": "ENOM, INC.",
+  "whois_server": "WHOIS.ENOM.COM",
+  "referral_url": null,
+  "updated_date": "2019-09-20 22:42:00",
+  "creation_date": [
+    "2004-06-29 13:40:16",
+    "2004-06-29 13:40:00"
+  ],
+  "expiration_date": [
+    "2021-06-29 13:40:16",
+    "2021-06-29 13:40:00"
+  ],
+  "name_servers": [
+    "NS1.A2HOSTING.COM",
+    "NS2.A2HOSTING.COM",
+    "NS3.A2HOSTING.COM",
+    "NS4.A2HOSTING.COM"
+  ],
+  "status": [
+    "ok https://icann.org/epp#ok",
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "emails": "ABUSE@ENOM.COM",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "MI",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "US"
+}

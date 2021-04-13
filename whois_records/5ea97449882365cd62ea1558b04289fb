@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "NEXUSNOVUS.COM",
+    "nexusnovus.com"
+  ],
+  "registrar": "One.com A/S",
+  "whois_server": "whois.one.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-12-29 00:47:20",
+    "2020-12-29T00:47:20Z[UTC]"
+  ],
+  "creation_date": [
+    "2007-01-28 13:24:07",
+    "2007-01-28T13:24:07Z[UTC]"
+  ],
+  "expiration_date": [
+    "2022-01-28 13:24:07",
+    "2022-01-28T13:24:07Z[UTC]"
+  ],
+  "name_servers": [
+    "NS01.ONE.COM",
+    "NS02.ONE.COM",
+    "ns02.one.com",
+    "ns01.one.com"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "abuse@one.com",
+    "hostmaster@one.com"
+  ],
+  "dnssec": "signedDelegation",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "AE"
+}

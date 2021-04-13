@@ -1,0 +1,15 @@
+{
+  "domain_name": "johnmcnamee.co.uk",
+  "registrar": "Namesco Limited [Tag = NAMESCO]",
+  "registrar_url": "http://www.names.co.uk",
+  "status": "Renewal required.",
+  "registrant_name": null,
+  "registrant_type": null,
+  "registrant_street": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "creation_date": "2019-01-07 00:00:00",
+  "expiration_date": "2021-01-07 00:00:00",
+  "updated_date": "2020-01-08 00:00:00",
+  "name_servers": "ns0.phase8.net"
+}

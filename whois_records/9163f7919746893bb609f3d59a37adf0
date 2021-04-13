@@ -1,0 +1,31 @@
+{
+  "domain_name": "cabscomputacion.com.mx",
+  "creation_date": "2017-02-22 00:00:00",
+  "updated_date": "2020-08-07 00:00:00",
+  "expiration_date": "2022-02-22 00:00:00",
+  "url": [
+    "http://www.akky.mx",
+    "http://www.akky.mx/herramientas/whois.jsf"
+  ],
+  "name_servers": [
+    "dns1.omanet.com.mx       200.57.8.12",
+    "dns2.omanet.com.mx       200.57.8.13"
+  ],
+  "registrar": "Akky (Una division de NIC Mexico)",
+  "registrant_name": "Jose Gonzalo Olivares Madrigal",
+  "registrant_city": "Durango",
+  "registrant_state": "Durango",
+  "registrant_country": "Mexico",
+  "admin": "Irma Rojano Rocha",
+  "admin_city": "Durango",
+  "admin_country": "Mexico",
+  "admin_state": "Durango",
+  "tech_name": "Jose Gonzalo Olivares Madrigal",
+  "tech_city": "Durango",
+  "tech_state": "Durango",
+  "tech_country": "Mexico",
+  "billing_name": "Irma Rojano Rocha",
+  "billing_city": "Durango",
+  "billing_state": "Durango",
+  "billing_country": "Mexico"
+}

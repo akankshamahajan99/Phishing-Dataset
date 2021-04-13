@@ -1,0 +1,18 @@
+{
+  "domain_name": "php5.cz",
+  "registrant_name": "ZONER",
+  "registrar": "REG-ZONER",
+  "creation_date": "2004-06-22 14:35:00",
+  "updated_date": [
+    "2019-03-05 15:55:33",
+    "2018-05-28 13:40:53",
+    "2016-11-15 14:04:37",
+    "2016-01-12 15:05:34"
+  ],
+  "expiration_date": "2021-06-22 00:00:00",
+  "name_servers": [
+    "ns1.regzone.de",
+    "ns1.regzone.info",
+    "ns1.regzone.cz (217.198.113.10, 2a00:19a0:3:71:0:d9c6:710a:1)"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "domain_name": [
+    "URL2IT.COM",
+    "url2it.com"
+  ],
+  "registrar": "GoDaddy.com, LLC",
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-01-14 11:45:12",
+    "2021-01-14 04:45:13"
+  ],
+  "creation_date": [
+    "2007-08-05 04:24:13",
+    "2007-08-04 23:24:13"
+  ],
+  "expiration_date": [
+    "2022-09-25 03:59:59",
+    "2022-09-24 22:59:59"
+  ],
+  "name_servers": [
+    "NS1.SOVEREIGNSTACK.COM",
+    "NS2.SOVEREIGNSTACK.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Sovereign Stack, LLC",
+  "address": null,
+  "city": null,
+  "state": "North Carolina",
+  "zipcode": null,
+  "country": "US"
+}

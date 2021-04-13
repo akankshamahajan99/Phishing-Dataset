@@ -1,0 +1,19 @@
+{
+  "domain_name": "nobell.it",
+  "creation_date": "2020-05-02 20:23:02",
+  "updated_date": "2020-09-04 17:22:13",
+  "expiration_date": "2021-05-02 00:00:00",
+  "status": "ok",
+  "name_servers": "ns1.c86708.sgvps.net\n  ns2.c86708.sgvps.net",
+  "registrant_organization": "IDG",
+  "registrant_address": "11 Chale Road,",
+  "admin_address": "11 Chale Road,",
+  "admin_organization": "IDG",
+  "admin_name": "Valentino La ciu",
+  "tech_address": "11 Chale Road,",
+  "tech_organization": "IDG",
+  "tech_name": "Valentino La ciu",
+  "registrar_address": null,
+  "registrar": "1 Api GmbH",
+  "registrar_name": "1API-REG"
+}

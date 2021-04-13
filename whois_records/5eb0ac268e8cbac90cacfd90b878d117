@@ -1,0 +1,44 @@
+{
+  "domain_name": "phlebolog.com.ua",
+  "status": [
+    "ok",
+    "linked"
+  ],
+  "registrar": "\u0422\u041e\u0412 \"\u0426\u0435\u043d\u0442\u0440 \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0406\u043c\u0435\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438\"",
+  "registrar_name": "ua.ukrnames",
+  "registrar_url": "http://www.ukrnames.com",
+  "registrar_country": "UA",
+  "registrar_city": "Kharkiv",
+  "registrar_address": "Ukraine 61024 Kharkiv P.O.B. 1823",
+  "registrar_email": "abuse@ukrnames.com",
+  "registrant_name": null,
+  "registrant_country": null,
+  "registrant_city": null,
+  "registrant_state": null,
+  "registrant_address": null,
+  "registrant_email": "yurets@land.ru",
+  "registrant_postal_code": null,
+  "registrant_phone": "+380.0678585555",
+  "registrant_fax": null,
+  "admin": null,
+  "admin_country": null,
+  "admin_city": null,
+  "admin_state": null,
+  "admin_address": null,
+  "admin_email": "yurets@land.ru",
+  "admin_postal_code": null,
+  "admin_phone": "+380.0678585555",
+  "admin_fax": null,
+  "updated_date": "2020-09-23 21:58:54",
+  "creation_date": [
+    "2009-11-22 18:29:31",
+    "2013-09-12 06:06:42",
+    "2013-09-12 06:06:51",
+    "2013-09-12 06:06:47"
+  ],
+  "expiration_date": "2021-11-22 18:29:31",
+  "name_servers": [
+    "ns1.2doweb.org",
+    "ns2.2doweb.org"
+  ]
+}

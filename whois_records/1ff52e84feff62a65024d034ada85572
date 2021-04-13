@@ -1,0 +1,30 @@
+{
+  "domain_name": "dentalcosta.com.br",
+  "registrant_name": "DENTAL COSTA PRODUTOS ODONTOL\ufffdGICOS LTDA",
+  "registrant_id": null,
+  "country": null,
+  "owner_c": "PGC24",
+  "admin_c": null,
+  "tech_c": "PGC24",
+  "billing_c": null,
+  "name_server": [
+    "ns1.portalcampina.com",
+    "ns2.portalcampina.com"
+  ],
+  "nsstat": "20210401 AA",
+  "nslastaa": "20210401",
+  "saci": "yes",
+  "creation_date": [
+    "2011-08-30 00:00:00",
+    "2000-08-27 00:00:00"
+  ],
+  "updated_date": [
+    "2020-09-01 00:00:00",
+    "2020-03-13 00:00:00"
+  ],
+  "expiration_date": "2021-08-30 00:00:00",
+  "status": "published",
+  "nic_hdl_br": "PGC24",
+  "person": "Paulo Guilherme Celestino",
+  "email": null
+}

@@ -1,0 +1,15 @@
+{
+  "domain_name": "DANLAID.COM.AU",
+  "updated_date": "2020-04-18 05:06:13",
+  "registrar": "Synergy Wholesale Pty Ltd",
+  "status": "serverRenewProhibited https://afilias.com.au/get-au/whois-status-codes#serverRenewProhibited",
+  "registrant_name": "Danlaid contracting Pty. Ltd.",
+  "registrant_contact_name": "Danny Laidlaw",
+  "name_servers": [
+    "PNS11.CLOUDNS.NET",
+    "PNS12.CLOUDNS.NET",
+    "PNS13.CLOUDNS.NET",
+    "PNS14.CLOUDNS.NET",
+    "NS11.CLOUDNS.NET"
+  ]
+}

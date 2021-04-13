@@ -1,0 +1,37 @@
+{
+  "domain_name": [
+    "TEKNOCIN.NET",
+    "teknocin.net"
+  ],
+  "registrar": "REALTIME REGISTER B.V.",
+  "whois_server": "whois.yoursrs.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-08-12 04:22:23",
+    "2020-08-12 04:20:00"
+  ],
+  "creation_date": "2017-07-30 14:11:09",
+  "expiration_date": "2021-07-30 14:11:09",
+  "name_servers": [
+    "NS1.VERIDYEN.COM",
+    "NS2.VERIDYEN.COM",
+    "ns2.veridyen.com",
+    "ns1.veridyen.com"
+  ],
+  "status": [
+    "ok https://icann.org/epp#ok",
+    "ok http://www.icann.org/epp#ok"
+  ],
+  "emails": "rtr-security-threats@realtimeregister.com",
+  "dnssec": [
+    "unsigned",
+    "not"
+  ],
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "Yenisehir",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "TR"
+}

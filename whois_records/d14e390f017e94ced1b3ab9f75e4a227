@@ -1,0 +1,13 @@
+{
+  "domain_name": "animalia.cl",
+  "registrant_name": "Maria Ignacia Combeau Rebolledo",
+  "registrant_organization": null,
+  "registrar": "NIC Chile",
+  "registrar_url": "https://www.nic.cl",
+  "creation_date": "2013-10-08 15:50:33",
+  "expiration_date": "2023-09-16 13:16:00",
+  "name_servers": [
+    "ns1.digitalocean.com",
+    "ns2.digitalocean.com"
+  ]
+}

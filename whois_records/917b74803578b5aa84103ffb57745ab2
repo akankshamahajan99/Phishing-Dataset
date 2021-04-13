@@ -1,0 +1,13 @@
+{
+  "domain_name": "lodgeisidora.cl",
+  "registrant_name": "asda 1",
+  "registrant_organization": null,
+  "registrar": "1API GmbH",
+  "registrar_url": "https://www.1api.net/",
+  "creation_date": "2020-06-10 00:52:08",
+  "expiration_date": "2021-06-10 00:52:08",
+  "name_servers": [
+    "ns21.domaincontrol.com",
+    "ns22.domaincontrol.com"
+  ]
+}

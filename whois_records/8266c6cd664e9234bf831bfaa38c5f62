@@ -1,0 +1,11 @@
+{
+  "domain_name": "yato.pl",
+  "name_servers": "dns.home.pl. [2001:8d8:fe:53:6870::1][217.160.80.244]\r\r\n                       dns2.home.pl. [217.160.81.248][2001:8d8:fe:53:6870::2]\r\r\n                       dns3.home.pl. [217.160.82.251][2001:8d8:fe:53:6870::3]",
+  "registrar": "home.pl S.A.",
+  "registrar_url": null,
+  "status": null,
+  "registrant_name": null,
+  "creation_date": "1999-12-23 12:00:00",
+  "expiration_date": "2021-12-22 13:00:00",
+  "updated_date": "2020-11-25 11:16:17"
+}

@@ -1,0 +1,46 @@
+{
+  "domain_name": "flas.com.ua",
+  "status": [
+    "ok",
+    "linked"
+  ],
+  "registrar": "\u0422\u041e\u0412 \"\u041d\u0406\u041a.\u042e\u0415\u0419\"",
+  "registrar_name": "ua.nic",
+  "registrar_url": "http://nic.ua",
+  "registrar_country": "UA",
+  "registrar_city": "Dnipro",
+  "registrar_address": "Ukraine 49000 Dnipro PO/BOX 80",
+  "registrar_email": "abuse@nic.ua",
+  "registrant_name": "NIC.UA LLC",
+  "registrant_country": "UA",
+  "registrant_city": null,
+  "registrant_state": "\u0414\u043d\u0456\u043f\u0440\u043e",
+  "registrant_address": "not published",
+  "registrant_email": "not published",
+  "registrant_postal_code": "49000",
+  "registrant_phone": "not published",
+  "registrant_fax": "+380.445937569",
+  "admin": "NIC.UA LLC",
+  "admin_country": "UA",
+  "admin_city": null,
+  "admin_state": "\u0414\u043d\u0456\u043f\u0440\u043e",
+  "admin_address": "not published",
+  "admin_email": "not published",
+  "admin_postal_code": "49000",
+  "admin_phone": "not published",
+  "admin_fax": "+380.445937569",
+  "updated_date": [
+    "2021-02-17 08:01:53",
+    "2019-08-31 22:13:21"
+  ],
+  "creation_date": [
+    "2005-02-17 13:41:47",
+    "2013-09-02 21:37:45",
+    "2003-01-08 00:00:00"
+  ],
+  "expiration_date": "2022-02-17 13:41:47",
+  "name_servers": [
+    "ns2.trifle.net",
+    "ns.sattele.com.ua"
+  ]
+}

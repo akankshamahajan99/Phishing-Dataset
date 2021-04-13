@@ -1,0 +1,31 @@
+{
+  "domain_name": "VIS-PH.COM",
+  "registrar": "DYNADOT LLC",
+  "whois_server": "whois.dynadot.com",
+  "referral_url": null,
+  "updated_date": "2021-01-29 06:45:37",
+  "creation_date": "2021-01-29 06:24:07",
+  "expiration_date": "2022-01-29 06:24:07",
+  "name_servers": [
+    "NS1.ABOVE.COM",
+    "NS2.ABOVE.COM",
+    "ns1.above.com",
+    "ns2.above.com"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@dynadot.com",
+    "vis-ph.com@superprivacyservice.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Super Privacy Service LTD c/o Dynadot",
+  "org": null,
+  "address": "PO Box 701",
+  "city": "San Mateo",
+  "state": "California",
+  "zipcode": "94401",
+  "country": "US"
+}

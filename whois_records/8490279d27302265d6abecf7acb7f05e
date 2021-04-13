@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "TOULOUSE-EPILATION-LASER.COM",
+    "toulouse-epilation-laser.com"
+  ],
+  "registrar": "1&1 IONOS SE",
+  "whois_server": "whois.ionos.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-02-09 08:11:38",
+    "2018-10-06 03:57:38"
+  ],
+  "creation_date": "2010-02-08 11:29:43",
+  "expiration_date": "2022-02-08 11:29:43",
+  "name_servers": [
+    "NS1025.UI-DNS.BIZ",
+    "NS1042.UI-DNS.DE",
+    "NS1099.UI-DNS.ORG",
+    "NS1109.UI-DNS.COM"
+  ],
+  "status": [
+    "ok https://icann.org/epp#ok",
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "emails": [
+    "abuse@ionos.com",
+    "dataprivacyprotected@1und1.de"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "REDACTED FOR PRIVACY",
+  "org": "LAMOTTE FRANCOIS",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "FR"
+}

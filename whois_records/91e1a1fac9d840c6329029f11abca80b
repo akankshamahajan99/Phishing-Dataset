@@ -1,0 +1,35 @@
+{
+  "domain_name": "KALPANACRAFTS.COM",
+  "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "whois_server": "whois.publicdomainregistry.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-02-02 06:29:09",
+    "2021-02-02 06:29:10"
+  ],
+  "creation_date": "2007-02-07 09:28:22",
+  "expiration_date": "2022-02-07 09:28:22",
+  "name_servers": [
+    "NS1.WEBSITEHOSTSERVER.NET",
+    "NS2.WEBSITEHOSTSERVER.NET",
+    "ns1.websitehostserver.net",
+    "ns2.websitehostserver.net"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse-contact@publicdomainregistry.com",
+    "kalpanacraft@gmail.com",
+    "info@efourcore.com.np"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "Amrit Khadka",
+  "org": "Kalpana Crafts",
+  "address": "Lalitpur",
+  "city": "Lalitpur",
+  "state": "Bagmati",
+  "zipcode": "00000",
+  "country": "NP"
+}

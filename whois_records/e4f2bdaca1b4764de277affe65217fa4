@@ -1,0 +1,15 @@
+{
+  "domain_name": "henkdeinumboomkwekerij.nl",
+  "status": "active",
+  "registrar": "Registrar.eu",
+  "registrar_address": "Kipstraat 3c5c",
+  "registrar_zip_code": "3011RR",
+  "registrar_city": "ROTTERDAM",
+  "registrar_country": "Netherlands",
+  "dnssec": "no",
+  "name_servers": [
+    "ns1.openprovider.nl",
+    "ns2.openprovider.be",
+    "ns3.openprovider.eu"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "domain_name": [
+    "TEAMXBOX.COM",
+    "teamxbox.com"
+  ],
+  "registrar": "CSC CORPORATE DOMAINS, INC.",
+  "whois_server": "whois.corporatedomains.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-12-11 06:19:03",
+    "2020-12-11 01:19:03"
+  ],
+  "creation_date": [
+    "2000-12-15 23:19:36",
+    "2000-12-15 18:19:36"
+  ],
+  "expiration_date": "2021-12-15 23:19:36",
+  "name_servers": [
+    "NS-1236.AWSDNS-26.ORG",
+    "NS-1653.AWSDNS-14.CO.UK",
+    "NS-461.AWSDNS-57.COM",
+    "NS-850.AWSDNS-42.NET",
+    "ns-1236.awsdns-26.org",
+    "ns-461.awsdns-57.com",
+    "ns-1653.awsdns-14.co.uk",
+    "ns-850.awsdns-42.net"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "domainabuse@cscglobal.com",
+    "hostmaster@ziffdavis.com",
+    "dns-admin@cscglobal.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Corporate Counsel",
+  "org": "Ziff Davis LLC",
+  "address": "114 5th Avenue",
+  "city": "New York",
+  "state": "NY",
+  "zipcode": "10011",
+  "country": "US"
+}

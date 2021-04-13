@@ -1,0 +1,30 @@
+{
+  "domain_name": "W3SCHOOLS.COM",
+  "registrar": "Network Solutions, LLC",
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2015-09-17 10:14:01",
+    "2020-11-09 13:05:43"
+  ],
+  "creation_date": "2000-03-21 13:54:41",
+  "expiration_date": "2025-03-21 12:54:41",
+  "name_servers": [
+    "NS1.MAXIMUMASP.COM",
+    "NS2.MAXIMUMASP.COM"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@web.com",
+    "gb46p3pv5ur@networksolutionsprivateregistration.com",
+    "e72dv9je5eu@networksolutionsprivateregistration.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "PERFECT PRIVACY, LLC",
+  "org": null,
+  "address": "5335 Gate Parkway care of Network Solutions PO Box 459",
+  "city": "Jacksonville",
+  "state": "FL",
+  "zipcode": "32256",
+  "country": "US"
+}

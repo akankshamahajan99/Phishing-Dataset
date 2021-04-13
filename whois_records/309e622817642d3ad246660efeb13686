@@ -1,0 +1,13 @@
+{
+  "domain_name": "metalica.cl",
+  "registrant_name": "METALICA CONSULTORES S A",
+  "registrant_organization": null,
+  "registrar": "NIC Chile",
+  "registrar_url": "https://www.nic.cl",
+  "creation_date": "2003-08-20 14:08:07",
+  "expiration_date": "2023-09-15 10:08:00",
+  "name_servers": [
+    "pdns03.domaincontrol.com",
+    "pdns04.domaincontrol.com"
+  ]
+}

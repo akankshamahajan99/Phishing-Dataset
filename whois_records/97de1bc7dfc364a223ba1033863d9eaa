@@ -1,0 +1,38 @@
+{
+  "domain_name": [
+    "USARGANCY.NET",
+    "usargancy.net"
+  ],
+  "registrar": "HOSTEUR SARL",
+  "whois_server": "whois.hosteur.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-03-31 07:31:59",
+    "2021-03-25 08:14:36"
+  ],
+  "creation_date": "2004-03-30 21:03:43",
+  "expiration_date": "2022-03-30 20:03:43",
+  "name_servers": [
+    "DNS1.HOSTEUR.COM",
+    "DNS2.HOSTEUR.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@hosteur.com",
+    "michael.voincon@sfr.fr"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "Voincon Michael",
+  "org": null,
+  "address": "24 rue de Bussiere,",
+  "city": "ARGANCY",
+  "state": null,
+  "zipcode": "57640",
+  "country": "FR"
+}

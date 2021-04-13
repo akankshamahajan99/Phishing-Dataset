@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "TORSTASH.COM",
+    "torstash.com"
+  ],
+  "registrar": "Pair Domains",
+  "whois_server": "pairDomains.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-02-23 10:32:57",
+    "2021-02-23T10:32:57+0000Z"
+  ],
+  "creation_date": [
+    "2014-02-22 21:54:50",
+    "2014-02-22T21:54:50+0000Z"
+  ],
+  "expiration_date": [
+    "2022-02-22 21:54:50",
+    "2021-02-22T21:54:50+0000Z"
+  ],
+  "name_servers": [
+    "NS-CLOUD-A1.GOOGLEDOMAINS.COM",
+    "NS-CLOUD-A2.GOOGLEDOMAINS.COM",
+    "NS-CLOUD-A3.GOOGLEDOMAINS.COM",
+    "NS-CLOUD-A4.GOOGLEDOMAINS.COM"
+  ],
+  "status": [
+    "clientHold https://icann.org/epp#clientHold",
+    "clientHold"
+  ],
+  "emails": "abuse@pairdomains.com",
+  "dnssec": "unsigned",
+  "name": "GDPR Redacted",
+  "org": null,
+  "address": "GDPR Redacted",
+  "city": "GDPR Redacted",
+  "state": "PA",
+  "zipcode": "GDPR Redacted",
+  "country": "US"
+}

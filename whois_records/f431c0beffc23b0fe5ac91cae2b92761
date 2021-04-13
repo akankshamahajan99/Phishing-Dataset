@@ -1,0 +1,30 @@
+{
+  "domain_name": "EQUIPMENTSHOP.COM",
+  "registrar": "Network Solutions, LLC",
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-07-09 05:58:55",
+    "2020-07-09 05:59:07"
+  ],
+  "creation_date": "1998-09-08 04:00:00",
+  "expiration_date": "2025-09-07 04:00:00",
+  "name_servers": [
+    "NS13.WORLDNIC.COM",
+    "NS14.WORLDNIC.COM"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@web.com",
+    "ken@equipmentshop.com",
+    "no.valid.email@WORLDNIC.NET"
+  ],
+  "dnssec": "unsigned",
+  "name": "EQUIPMENT SHOP INC.",
+  "org": "EQUIPMENT SHOP INC.",
+  "address": "PO BOX 33",
+  "city": "BEDFORD",
+  "state": "MA",
+  "zipcode": "01730-0033",
+  "country": "US"
+}

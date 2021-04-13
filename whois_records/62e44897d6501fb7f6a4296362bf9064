@@ -1,0 +1,11 @@
+{
+  "domain_name": null,
+  "domain_status": null,
+  "registrar": null,
+  "referral_url": null,
+  "creation_date": null,
+  "expiration_date": null,
+  "name_servers": null,
+  "status": null,
+  "dnssec": null
+}

@@ -1,0 +1,41 @@
+{
+  "domain_name": [
+    "SAKONGROUP.NET",
+    "sakongroup.net"
+  ],
+  "registrar": "Onlinenic Inc",
+  "whois_server": "whois.onlinenic.com",
+  "referral_url": null,
+  "updated_date": [
+    "2018-07-18 05:41:58",
+    "2018-07-18 01:41:50"
+  ],
+  "creation_date": [
+    "2008-07-10 08:43:16",
+    "2008-07-10 04:00:00"
+  ],
+  "expiration_date": [
+    "2021-07-10 08:43:16",
+    "2021-07-10 04:00:00"
+  ],
+  "name_servers": [
+    "NS1.THAIHOSTWEBHOSTING.COM",
+    "NS2.THAIHOSTWEBHOSTING.COM",
+    "ns1.thaihostwebhosting.com",
+    "ns2.thaihostwebhosting.com"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@onlinenic.com",
+    "y_saimuey@hotmail.com",
+    "domreg@hosting.co.th"
+  ],
+  "dnssec": "unsigned",
+  "name": "Yanyong / Saimuey",
+  "org": "Yanyong / Saimuey",
+  "address": "37/23 Pretburee Rd. Toongpayathai",
+  "city": "Rachathewee",
+  "state": "Bangkok",
+  "zipcode": "10400",
+  "country": "TH"
+}

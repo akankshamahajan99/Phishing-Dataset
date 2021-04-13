@@ -1,0 +1,33 @@
+{
+  "domain_name": "sisimtel.com.mx",
+  "creation_date": "2008-12-15 00:00:00",
+  "updated_date": "2020-11-17 00:00:00",
+  "expiration_date": "2021-12-14 00:00:00",
+  "url": [
+    "http://www.akky.mx",
+    "http://www.akky.mx/herramientas/whois.jsf"
+  ],
+  "name_servers": [
+    "ns1.nubenautas.net",
+    "ns2.nubenautas.net",
+    "ns3.nubenautas.net",
+    "ns4.nubenautas.net"
+  ],
+  "registrar": "Akky (Una division de NIC Mexico)",
+  "registrant_name": "Teletec de Mexico",
+  "registrant_city": "Naucalpan",
+  "registrant_state": "Mexico",
+  "registrant_country": "Mexico",
+  "admin": "Arturo Palacios",
+  "admin_city": "Naucalpan",
+  "admin_country": "Mexico",
+  "admin_state": "Mexico",
+  "tech_name": "Arturo Palacios",
+  "tech_city": "Naucalpan",
+  "tech_state": "Mexico",
+  "tech_country": "Mexico",
+  "billing_name": "Arturo Palacios",
+  "billing_city": "Naucalpan",
+  "billing_state": "Mexico",
+  "billing_country": "Mexico"
+}

@@ -1,0 +1,36 @@
+{
+  "domain_id": "PANDI-DO5394923",
+  "domain_name": "pageshome.my.id",
+  "creation_date": "2021-04-02 17:09:04",
+  "expiration_date": "2022-04-02 00:09:04",
+  "updated_date": "2021-04-02 17:09:04",
+  "dnssec": "Unsigned",
+  "registrar": "Digital Registra",
+  "registrar_city": "Sleman",
+  "registrar_postal_code": "55281",
+  "registrar_country": "ID",
+  "registrar_phone": "0274882257",
+  "registrar_email": null,
+  "status": [
+    "addPeriod",
+    "serverTransferProhibited",
+    "clientTransferProhibited"
+  ],
+  "registrant_id": null,
+  "registrant_name": null,
+  "registrant_org": null,
+  "registrant_address": null,
+  "registrant_address2": null,
+  "registrant_address3": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "registrant_postal_code": null,
+  "registrant_phone": null,
+  "registrant_fax": null,
+  "registrant_email": null,
+  "name_servers": [
+    "ns1.site4now.net",
+    "ns2.site4now.net",
+    "NS3.SITE4NOW.NET"
+  ]
+}

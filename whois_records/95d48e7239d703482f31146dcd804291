@@ -1,0 +1,29 @@
+{
+  "domain_name": [
+    "CONFIRMAAQUI.COM",
+    "confirmaaqui.com"
+  ],
+  "registrar": "ENOM, INC.",
+  "whois_server": "WHOIS.ENOM.COM",
+  "referral_url": null,
+  "updated_date": "2021-01-16 13:13:48",
+  "creation_date": "2008-01-14 18:35:10",
+  "expiration_date": "2022-01-14 18:35:10",
+  "name_servers": [
+    "NS1.HOMEHOST.COM.BR",
+    "NS2.HOMEHOST.COM.BR"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": "ABUSE@ENOM.COM",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "BR",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "BR"
+}

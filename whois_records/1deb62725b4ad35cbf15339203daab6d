@@ -1,0 +1,32 @@
+{
+  "domain_name": [
+    "MINNESOTAIRISH.COM",
+    "minnesotairish.com"
+  ],
+  "registrar": "Key-Systems GmbH",
+  "whois_server": "whois.rrpproxy.net",
+  "referral_url": null,
+  "updated_date": "2020-08-12 13:11:08",
+  "creation_date": "2020-08-12 13:11:08",
+  "expiration_date": "2021-08-12 13:11:08",
+  "name_servers": [
+    "JM1.DNS.COM",
+    "JM2.DNS.COM",
+    "jm1.dns.com",
+    "jm2.dns.com"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "abuse@key-systems.net",
+    "abusereport@key-systems.net",
+    "info@domain-contact.org"
+  ],
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "SG"
+}

@@ -1,0 +1,32 @@
+{
+  "domain_name": "EMOTIONALVIRTUE.COM",
+  "registrar": "FastDomain Inc.",
+  "whois_server": "whois.fastdomain.com",
+  "referral_url": null,
+  "updated_date": "2020-10-10 11:33:11",
+  "creation_date": [
+    "2011-10-26 22:09:16",
+    "2011-10-26 22:09:15"
+  ],
+  "expiration_date": "2021-10-26 22:09:16",
+  "name_servers": [
+    "NS-1090.AWSDNS-08.ORG",
+    "NS-1638.AWSDNS-12.CO.UK",
+    "NS-437.AWSDNS-54.COM",
+    "NS-666.AWSDNS-19.NET"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "support@ipage-inc.com",
+    "SARAHSWAFFORD@GMAIL.COM",
+    "SUPPORT@IPAGE.COM"
+  ],
+  "dnssec": "unsigned",
+  "name": "SARAH SWAFFORD",
+  "org": "SARAH SWAFFORD",
+  "address": "1718 LINDEN LN",
+  "city": "ATCHISON",
+  "state": "KANSAS",
+  "zipcode": "66002",
+  "country": "US"
+}

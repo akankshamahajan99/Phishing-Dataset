@@ -1,0 +1,15 @@
+{
+  "domain_name": "bluecoatict.co.uk",
+  "registrar": "eNom LLC [Tag = ENOM]",
+  "registrar_url": "http://www.enom.com",
+  "status": "Renewal required.",
+  "registrant_name": null,
+  "registrant_type": null,
+  "registrant_street": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "creation_date": "2018-02-06 00:00:00",
+  "expiration_date": "2021-02-06 00:00:00",
+  "updated_date": "2021-02-07 00:00:00",
+  "name_servers": "dns1.name-services.com"
+}

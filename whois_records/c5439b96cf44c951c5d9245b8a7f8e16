@@ -1,0 +1,27 @@
+{
+  "domain_name": "GUNSNGADGETS.NET",
+  "registrar": "FastDomain Inc.",
+  "whois_server": "whois.bluehost.com",
+  "referral_url": null,
+  "updated_date": "2021-03-06 15:19:19",
+  "creation_date": "2007-03-21 02:18:40",
+  "expiration_date": "2022-03-21 02:18:40",
+  "name_servers": [
+    "GENE.NS.CLOUDFLARE.COM",
+    "MITCH.NS.CLOUDFLARE.COM"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "support@bluehost.com",
+    "JTHIESSEN@AMTELECOM.NET",
+    "DOMAIN@REDL.CA"
+  ],
+  "dnssec": "unsigned",
+  "name": "JACOB THIESSEN",
+  "org": null,
+  "address": "49395 NOVA SCOTIA LINEA",
+  "city": "AYLMER",
+  "state": "ONTARIO",
+  "zipcode": "N5H 2R2",
+  "country": "CA"
+}

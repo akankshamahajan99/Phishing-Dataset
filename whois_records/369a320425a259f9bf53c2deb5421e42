@@ -1,0 +1,19 @@
+{
+  "domain_name": "coep.org.in",
+  "registrar": "Net 4 India Limited",
+  "registrar_url": "http://www.net4.in",
+  "registrar_iana": "1007",
+  "updated_date": "2020-09-27 16:10:30",
+  "creation_date": "2002-11-01 20:37:10",
+  "expiration_date": "2028-11-01 20:37:10",
+  "name_servers": "coepserver.coep.org.in",
+  "organization": null,
+  "state": null,
+  "status": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited"
+  ],
+  "emails": null,
+  "country": "IN",
+  "dnssec": "unsigned"
+}

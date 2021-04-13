@@ -1,0 +1,28 @@
+{
+  "domain_name": "WHCHILE.COM",
+  "registrar": "Domain.com, LLC",
+  "whois_server": "whois.domain.com",
+  "referral_url": null,
+  "updated_date": "2020-08-07 20:30:03",
+  "creation_date": "2020-08-07 20:29:08",
+  "expiration_date": "2021-08-07 20:29:08",
+  "name_servers": [
+    "NS3.SUSITIO.CL",
+    "NS4.SUSITIO.CL",
+    "ns3.susitio.cl",
+    "ns4.susitio.cl"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "compliance@domain-inc.net",
+    "support@domain-inc.net"
+  ],
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "NA",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "CL"
+}

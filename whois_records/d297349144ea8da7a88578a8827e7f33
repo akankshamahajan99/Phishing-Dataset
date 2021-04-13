@@ -1,0 +1,25 @@
+{
+  "domain_name": "TURISMROMANIA.INFO",
+  "registrar": "GMO Internet, Inc. d/b/a Onamae.com",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2021-03-27 17:07:39",
+  "creation_date": "2020-02-25 03:01:09",
+  "expiration_date": "2022-02-25 03:01:09",
+  "name_servers": [
+    "DOMAINEXP01.ONAMAE.JP",
+    "DOMAINEXP02.ONAMAE.JP"
+  ],
+  "status": [
+    "ok https://icann.org/epp#ok",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "emails": "abuse@gmo.jp",
+  "name": null,
+  "org": "domain expired",
+  "address": null,
+  "city": null,
+  "state": "Tokyo",
+  "zipcode": null,
+  "country": "JP"
+}

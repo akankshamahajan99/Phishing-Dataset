@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "22WEB.ORG",
+    "22web.org"
+  ],
+  "registrar": "NAMECHEAP INC",
+  "whois_server": "whois.namecheap.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-04-07 05:42:07",
+    "2020-04-07 05:42:08.190000"
+  ],
+  "creation_date": "2012-05-07 11:48:25",
+  "expiration_date": "2021-05-07 11:48:25",
+  "name_servers": [
+    "NS1.BYET.ORG",
+    "NS2.BYET.ORG",
+    "NS3.BYET.ORG",
+    "NS4.BYET.ORG",
+    "NS5.BYET.ORG",
+    "ns1.byet.org",
+    "ns2.byet.org",
+    "ns3.byet.org",
+    "ns4.byet.org",
+    "ns5.byet.org"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": "abuse@namecheap.com",
+  "dnssec": "unsigned",
+  "name": "Redacted for Privacy Purposes",
+  "org": [
+    "iFastNet Internet",
+    "Redacted for Privacy Purposes"
+  ],
+  "address": "Redacted for Privacy Purposes",
+  "city": "Redacted for Privacy Purposes",
+  "state": "CA",
+  "zipcode": "Redacted for Privacy Purposes",
+  "country": "US"
+}

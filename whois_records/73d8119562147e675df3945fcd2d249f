@@ -1,0 +1,34 @@
+{
+  "domain_name": "STADLERPROFESSIONAL.COM",
+  "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "whois_server": "whois.publicdomainregistry.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-24 04:58:32",
+    "2020-09-24 04:58:33"
+  ],
+  "creation_date": "2003-03-19 13:10:41",
+  "expiration_date": "2023-03-19 12:10:41",
+  "name_servers": [
+    "TURBO1.IDEASERVERS.NET",
+    "TURBO2.IDEASERVERS.NET",
+    "turbo1.ideaservers.net",
+    "turbo2.ideaservers.net"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse-contact@publicdomainregistry.com",
+    "sales@corp.zeeservers.net"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "Elton John",
+  "org": "ZeeServers Inc.",
+  "address": "1673 E 16 St. 22,",
+  "city": "Brooklyn",
+  "state": "New York",
+  "zipcode": "11229",
+  "country": "US"
+}

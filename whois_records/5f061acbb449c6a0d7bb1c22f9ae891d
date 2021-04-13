@@ -1,0 +1,15 @@
+{
+  "domain_name": null,
+  "registrar": null,
+  "registrar_url": null,
+  "status": null,
+  "registrant_name": null,
+  "registrant_type": null,
+  "registrant_street": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "creation_date": null,
+  "expiration_date": null,
+  "updated_date": null,
+  "name_servers": null
+}

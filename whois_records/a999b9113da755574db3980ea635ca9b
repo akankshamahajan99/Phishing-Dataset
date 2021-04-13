@@ -1,0 +1,31 @@
+{
+  "domain_name": "us.ms",
+  "registrar": "MNINET Registrar",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2017-05-15 20:53:04.637000",
+  "creation_date": "2003-11-11 11:00:00",
+  "expiration_date": "2025-12-31 04:00:00",
+  "name_servers": [
+    "ns1.idnscan.net",
+    "ns6.idnscan.net"
+  ],
+  "status": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "clientHold https://icann.org/epp#clientHold",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "emails": "sales@mninet.ms",
+  "dnssec": "unsigned",
+  "name": "Redacted | EU Data Subject",
+  "org": null,
+  "address": "Redacted | EU Data Subject",
+  "city": "Redacted | EU Data Subject",
+  "state": "Redacted | EU Data Subject",
+  "zipcode": null,
+  "country": "GR"
+}

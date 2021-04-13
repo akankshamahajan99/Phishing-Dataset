@@ -1,0 +1,28 @@
+{
+  "domain_name": [
+    "DINTOK.COM",
+    "dintok.com"
+  ],
+  "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+  "whois_server": "whois.joker.com",
+  "referral_url": null,
+  "updated_date": "2020-07-01 07:28:45",
+  "creation_date": "2017-06-07 06:09:33",
+  "expiration_date": "2023-06-07 06:09:33",
+  "name_servers": [
+    "POPPY.NS.CLOUDFLARE.COM",
+    "SEVKI.NS.CLOUDFLARE.COM",
+    "poppy.ns.cloudflare.com",
+    "sevki.ns.cloudflare.com"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": "abuse@joker.com",
+  "dnssec": "unsigned",
+  "name": "On behalf of dintok.com",
+  "org": "c/o IDPS International Domain Privacy Services GmbH",
+  "address": "Hansaallee 191",
+  "city": "Duesseldorf",
+  "state": null,
+  "zipcode": "40549",
+  "country": "DE"
+}

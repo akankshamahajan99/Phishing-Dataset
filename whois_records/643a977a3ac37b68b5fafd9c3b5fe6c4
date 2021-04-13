@@ -1,0 +1,54 @@
+{
+  "domain_name": "russel.sk",
+  "creation_date": "2009-09-04 00:00:00",
+  "updated_date": "2020-09-10 00:00:00",
+  "expiration_date": "2021-09-04 00:00:00",
+  "name_servers": [
+    "ns1.webhouse.sk",
+    "ns2.webhouse.sk"
+  ],
+  "registrant_name": [
+    "WebHouse, s.r.o.",
+    "Russel Export-Import s.r.o.",
+    "WebHouse, s. r. o."
+  ],
+  "registrant_email": "domeny@webhouse.sk",
+  "registrant_phone": [
+    "+421.332933500",
+    "+421.910969601"
+  ],
+  "registrant_address": [
+    "Paul\u00ednska 20",
+    "Z\u00e1hradn\u00edcka 15"
+  ],
+  "registrar": "WebHouse, s. r. o.",
+  "registrar_organization_id": "36743852",
+  "registrar_name": "WebHouse, s.r.o.",
+  "registrar_phone": "+421.332933500",
+  "registrar_email": "domeny@webhouse.sk",
+  "registrar_street": "Paul\u00ednska 20",
+  "registrar_city": "Trnava",
+  "registrar_postal_code": "91701",
+  "registrar_country_code": "SK",
+  "admin": "WEBHOUSE",
+  "admin_organization": [
+    "Russel Export-Import s.r.o.",
+    "WebHouse, s. r. o."
+  ],
+  "admin_phone": "+421.910969601",
+  "admin_email": "domeny@webhouse.sk",
+  "admin_street": [
+    "Z\u00e1hradn\u00edcka 15",
+    "Paul\u00ednska 20"
+  ],
+  "admin_city": [
+    "Bratislava",
+    "Trnava"
+  ],
+  "admin_postal_code": [
+    "81107",
+    "917 01"
+  ],
+  "admin_country_code": "SK",
+  "tech": "WEBHOUSE"
+}

@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "AKSHARBHARTI.COM",
+    "aksharbharti.com"
+  ],
+  "registrar": "GMO INTERNET, INC.",
+  "whois_server": "whois.discount-domain.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-30 06:33:13",
+    "2020-09-30 15:33:13"
+  ],
+  "creation_date": [
+    "2018-09-11 17:55:06",
+    "2018-09-12 02:55:07"
+  ],
+  "expiration_date": "2021-09-11 17:55:06",
+  "name_servers": [
+    "NS1.MD-PB-IQSV.COM",
+    "NS2.MD-PB-IQSV.COM",
+    "ns1.md-pb-iqsv.com",
+    "ns2.md-pb-iqsv.com"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "abuse@gmo.jp",
+    "onamae@value-domain.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Kenji Hiraiwa",
+  "org": "GMO DigiRock, Inc.",
+  "address": [
+    "3-1 Ofuka-cho",
+    "Grand Front Osaka Tower B 23F"
+  ],
+  "city": "Osaka-shi Kita-ku",
+  "state": "Osaka",
+  "zipcode": "530-0011",
+  "country": "JP"
+}

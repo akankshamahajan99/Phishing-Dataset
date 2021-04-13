@@ -1,0 +1,24 @@
+{
+  "domain_name": "wlservices.fr",
+  "registrar": "GANDI",
+  "creation_date": "2011-02-28 09:44:46",
+  "expiration_date": "2022-02-28 09:44:46",
+  "name_servers": [
+    "a.dns.gandi.net",
+    "b.dns.gandi.net",
+    "c.dns.gandi.net"
+  ],
+  "status": [
+    "ACTIVE",
+    "ok",
+    "not identified"
+  ],
+  "emails": [
+    "support@support.gandi.net",
+    "1755dd3c0a56d422857afd7f26d2c0fe-805354@contact.gandi.net",
+    "nic@nic.fr",
+    "noc@gandi.net",
+    "abuse@support.gandi.net"
+  ],
+  "updated_date": "2021-02-18 19:04:05"
+}

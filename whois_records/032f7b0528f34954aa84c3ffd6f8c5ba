@@ -1,0 +1,34 @@
+{
+  "domain_name": "ESDSTUDIO.COM",
+  "registrar": "Registrar of domain names REG.RU LLC",
+  "whois_server": "whois.reg.com",
+  "referral_url": null,
+  "updated_date": "2021-02-28 13:01:44",
+  "creation_date": "2011-04-17 22:28:25",
+  "expiration_date": "2022-04-17 22:28:25",
+  "name_servers": [
+    "NS1.FIRSTVDS.RU",
+    "NS2.FIRSTVDS.RU",
+    "ns1.firstvds.ru",
+    "ns2.firstvds.ru"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@reg.ru",
+    "ESDSTUDIO.COM@regprivate.ru"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "Protection of Private Person",
+  "org": null,
+  "address": "PO box 87, REG.RU Protection Service",
+  "city": "Moscow",
+  "state": null,
+  "zipcode": "123007",
+  "country": "RU"
+}

@@ -1,0 +1,14 @@
+{
+  "domain_name": "gttconnect.com.cn",
+  "registrar": "WEST263 INTERNATIONAL LIMITED",
+  "creation_date": "2020-07-16 15:10:42",
+  "expiration_date": "2021-07-16 15:10:42",
+  "name_servers": [
+    "ns4.myhostadmin.net",
+    "ns3.myhostadmin.net"
+  ],
+  "status": "ok",
+  "emails": "yehdgshdgg@163.com",
+  "dnssec": "unsigned",
+  "name": "\u5218\u666f\u660e"
+}

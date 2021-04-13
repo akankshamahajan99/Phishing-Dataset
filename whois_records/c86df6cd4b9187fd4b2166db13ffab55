@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "MBINE.COM",
+    "mbine.com"
+  ],
+  "registrar": "gabia",
+  "whois_server": "whois.gabia.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-01 15:29:58",
+    "2020-09-02 00:30:00"
+  ],
+  "creation_date": [
+    "2008-11-01 04:24:50",
+    "2008-11-01 00:00:00"
+  ],
+  "expiration_date": [
+    "2023-11-01 04:24:50",
+    "2023-11-01 00:00:00"
+  ],
+  "name_servers": [
+    "NS1.CAFE24.COM",
+    "NS2.CAFE24.COM",
+    "ns1.cafe24.com",
+    "ns2.cafe24.com"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "hitapia@gmail.com",
+    "abuse@gabia.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Bang Sung Won",
+  "org": null,
+  "address": "Dongcheon-dong Suji-gu, Yongin-si Gyeonggi-do .",
+  "city": "Gyeonggi-do",
+  "state": null,
+  "zipcode": "448120",
+  "country": "KR"
+}

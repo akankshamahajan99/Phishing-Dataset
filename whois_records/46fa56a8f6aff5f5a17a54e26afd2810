@@ -1,0 +1,60 @@
+{
+  "domain_name": [
+    "YAHOO.COM",
+    "yahoo.com"
+  ],
+  "registrar": "MarkMonitor, Inc.",
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-12-18 13:37:09",
+    "2020-07-30 11:35:29"
+  ],
+  "creation_date": [
+    "1995-01-18 05:00:00",
+    "1995-01-18 00:00:00"
+  ],
+  "expiration_date": [
+    "2023-01-19 05:00:00",
+    "2023-01-18 21:00:00"
+  ],
+  "name_servers": [
+    "NS1.YAHOO.COM",
+    "NS2.YAHOO.COM",
+    "NS3.YAHOO.COM",
+    "NS4.YAHOO.COM",
+    "NS5.YAHOO.COM",
+    "ns2.yahoo.com",
+    "ns5.yahoo.com",
+    "ns1.yahoo.com",
+    "ns3.yahoo.com",
+    "ns4.yahoo.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "domain-admin@oath.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Admin",
+  "org": "Oath Inc.",
+  "address": "22000 AOL Way",
+  "city": "Dulles",
+  "state": "VA",
+  "zipcode": "20166",
+  "country": "US"
+}

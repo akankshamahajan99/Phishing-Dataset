@@ -1,0 +1,15 @@
+{
+  "domain_name": "kettyle.co.uk",
+  "registrar": "Easy Internet Solutions Ltd t/a NetNerd [Tag = EASY-INTERNET]",
+  "registrar_url": "https://netnerd.com",
+  "status": "Registered until expiry date.",
+  "registrant_name": null,
+  "registrant_type": null,
+  "registrant_street": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "creation_date": "2009-08-28 00:00:00",
+  "expiration_date": "2021-08-28 00:00:00",
+  "updated_date": "2020-08-18 00:00:00",
+  "name_servers": "ns1.netnerd.com"
+}

@@ -1,0 +1,43 @@
+{
+  "domain_name": "CENTRALSEG.COM",
+  "registrar": "GoDaddy.com, LLC",
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-06-09 22:12:03",
+    "2020-06-09 15:12:02"
+  ],
+  "creation_date": [
+    "2006-06-09 20:03:59",
+    "2006-06-09 15:03:59"
+  ],
+  "expiration_date": [
+    "2021-06-09 20:03:59",
+    "2021-06-09 15:03:59"
+  ],
+  "name_servers": [
+    "NS1199.DNS.DYN.COM",
+    "NS2167.DNS.DYN.COM",
+    "NS3189.DNS.DYN.COM",
+    "NS4166.DNS.DYN.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "CENTRAL DE SEGURIDAD DE PUEBLA",
+  "address": null,
+  "city": null,
+  "state": "Puebla",
+  "zipcode": null,
+  "country": "MX"
+}

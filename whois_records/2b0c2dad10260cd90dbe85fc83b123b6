@@ -1,0 +1,35 @@
+{
+  "domain_name": [
+    "5GBFREE.COM",
+    "5gbfree.com"
+  ],
+  "registrar": "ENOM, INC.",
+  "whois_server": "WHOIS.ENOM.COM",
+  "referral_url": null,
+  "updated_date": "2019-09-23 20:46:00",
+  "creation_date": [
+    "2007-01-03 14:47:45",
+    "2007-01-03 14:47:00"
+  ],
+  "expiration_date": [
+    "2023-01-03 14:47:45",
+    "2023-01-03 13:47:00"
+  ],
+  "name_servers": [
+    "NS1.DNSCONFIGURE.COM",
+    "NS2.DNSCONFIGURE.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": "ABUSE@ENOM.COM",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "UT",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "US"
+}

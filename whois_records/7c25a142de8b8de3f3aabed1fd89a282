@@ -1,0 +1,33 @@
+{
+  "domain_name": [
+    "REUTREGEV.COM",
+    "reutregev.com"
+  ],
+  "registrar": "Automattic Inc.",
+  "whois_server": "whois.sawbuck.com",
+  "referral_url": null,
+  "updated_date": "2020-08-12 15:40:37",
+  "creation_date": "2003-09-08 16:25:49",
+  "expiration_date": "2021-09-08 16:25:49",
+  "name_servers": [
+    "NS1.WORDPRESS.COM",
+    "NS2.WORDPRESS.COM",
+    "NS3.WORDPRESS.COM",
+    "ns1.wordpress.com",
+    "ns2.wordpress.com",
+    "ns3.wordpress.com"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "domainabuse@automattic.com",
+    "reutregev.com@privatewho.is"
+  ],
+  "dnssec": "unsigned",
+  "name": "Private Whois",
+  "org": "Knock Knock WHOIS Not There, LLC",
+  "address": "9450 SW Gemini Dr #63259",
+  "city": "Beaverton",
+  "state": null,
+  "zipcode": "97008-7105",
+  "country": "US"
+}

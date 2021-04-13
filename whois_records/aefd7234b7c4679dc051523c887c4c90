@@ -1,0 +1,33 @@
+{
+  "domain_name": "RESEARCHGATE.NET",
+  "registrar": "MESH DIGITAL LIMITED",
+  "whois_server": "whois.meshdigital.com",
+  "referral_url": null,
+  "updated_date": "2021-02-07 12:03:28",
+  "creation_date": "2008-02-08 19:33:02",
+  "expiration_date": "2022-02-08 19:33:02",
+  "name_servers": [
+    "NS-1432.AWSDNS-51.ORG",
+    "NS-1779.AWSDNS-30.CO.UK",
+    "NS-299.AWSDNS-37.COM",
+    "NS-636.AWSDNS-15.NET",
+    "ns-636.awsdns-15.net",
+    "ns-299.awsdns-37.com",
+    "ns-1779.awsdns-30.co.uk",
+    "ns-1432.awsdns-51.org"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": "support@domainbox.com",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": null,
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "DE"
+}

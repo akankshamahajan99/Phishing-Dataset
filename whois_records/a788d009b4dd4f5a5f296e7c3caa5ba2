@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "MJC-WWL.COM",
+    "mjc-wwl.com"
+  ],
+  "registrar": "Dinahosting s.l.",
+  "whois_server": "whois.dinahosting.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-03-08 06:29:14",
+    "2021-03-08 07:29:14"
+  ],
+  "creation_date": "2002-03-15 15:17:39",
+  "expiration_date": "2022-03-15 14:17:39",
+  "name_servers": [
+    "NS.DINAHOSTING.COM",
+    "NS2.DINAHOSTING.COM",
+    "NS3.DINAHOSTING.COM",
+    "NS4.DINAHOSTING.COM",
+    "ns2.dinahosting.com",
+    "ns4.dinahosting.com",
+    "ns3.dinahosting.com",
+    "ns.dinahosting.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited (http://www.icann.org/epp#clientDeleteProhibited)",
+    "clientTransferProhibited (http://www.icann.org/epp#clientTransferProhibited)"
+  ],
+  "emails": "abuse-domains@dinahosting.com",
+  "dnssec": "unsigned",
+  "name": "Redacted by Privacy",
+  "org": "M. J. C. World Wide Link, S. L.",
+  "address": "Redacted by Privacy",
+  "city": "Redacted by Privacy",
+  "state": "Alicante",
+  "zipcode": "Redacted by Privacy",
+  "country": "ES"
+}

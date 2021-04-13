@@ -1,0 +1,24 @@
+{
+  "domain_name": "cloud-tech.in",
+  "registrar": "GoDaddy.com, LLC",
+  "registrar_url": "www.godaddy.com",
+  "registrar_iana": "146",
+  "updated_date": "2020-04-28 01:40:11",
+  "creation_date": "2020-04-22 01:32:05",
+  "expiration_date": "2021-04-22 01:32:05",
+  "name_servers": [
+    "pdns02.domaincontrol.com",
+    "pdns01.domaincontrol.com"
+  ],
+  "organization": null,
+  "state": "New Jersey",
+  "status": [
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": null,
+  "country": "US",
+  "dnssec": "unsigned"
+}

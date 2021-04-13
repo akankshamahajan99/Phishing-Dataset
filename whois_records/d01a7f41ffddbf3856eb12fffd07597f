@@ -1,0 +1,29 @@
+{
+  "domain_name": "interhottap.com.mx",
+  "creation_date": "2009-04-07 00:00:00",
+  "updated_date": "2021-03-30 00:00:00",
+  "expiration_date": "2022-04-06 00:00:00",
+  "url": "http://www.neubox.net",
+  "name_servers": [
+    "ns143.neubox.net",
+    "ns144.neubox.net",
+    "ns245.neubox.net"
+  ],
+  "registrar": "NEUBOX Internet SA de CV",
+  "registrant_name": "Alojate.com",
+  "registrant_city": "Puebla",
+  "registrant_state": "Puebla",
+  "registrant_country": "Mexico",
+  "admin": "Ricardo d Argence Perez",
+  "admin_city": "Puebla",
+  "admin_country": "Mexico",
+  "admin_state": "Puebla",
+  "tech_name": "Ricardo d Argence Perez",
+  "tech_city": "Puebla",
+  "tech_state": "Puebla",
+  "tech_country": "Mexico",
+  "billing_name": "Ricardo d Argence Perez",
+  "billing_city": "Puebla",
+  "billing_state": "Puebla",
+  "billing_country": "Mexico"
+}

@@ -1,0 +1,32 @@
+{
+  "domain_name": "bit.ly",
+  "registrar": "Libyan Spider Network (int)",
+  "whois_server": ": whois.nic.ly",
+  "referral_url": null,
+  "updated_date": "2020-11-24 15:02:24.867000",
+  "creation_date": "2008-05-17 22:00:00",
+  "expiration_date": "2022-05-17 22:00:00",
+  "name_servers": [
+    "ns-1372.awsdns-43.org",
+    "ns-705.awsdns-24.net",
+    "ns-cloud-c1.googledomains.com",
+    "ns-cloud-c2.googledomains.com",
+    "ns-cloud-c3.googledomains.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "support@register.ly",
+    "hostmaster@bit.ly"
+  ],
+  "dnssec": "unsigned",
+  "name": "bitly operations",
+  "org": "Bitly",
+  "address": "139 5th Avenue 5th Floor",
+  "city": "New York",
+  "state": "NY",
+  "zipcode": "10010",
+  "country": "US"
+}

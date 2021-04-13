@@ -1,0 +1,63 @@
+{
+  "domain_name": [
+    "LIVE.COM",
+    "live.com"
+  ],
+  "registrar": "CSC CORPORATE DOMAINS, INC.",
+  "whois_server": "whois.corporatedomains.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-12-23 06:12:11",
+    "2020-12-23 01:12:11"
+  ],
+  "creation_date": [
+    "1994-12-28 05:00:00",
+    "1994-12-28 00:00:00"
+  ],
+  "expiration_date": "2021-12-27 05:00:00",
+  "name_servers": [
+    "NS1-34.AZURE-DNS.COM",
+    "NS2-34.AZURE-DNS.NET",
+    "NS3-34.AZURE-DNS.ORG",
+    "NS4-34.AZURE-DNS.INFO",
+    "NSE12.O365FILTERING.COM",
+    "NSE13.O365FILTERING.COM",
+    "NSE21.O365FILTERING.COM",
+    "NSE24.O365FILTERING.COM",
+    "nse24.o365filtering.com",
+    "ns4-34.azure-dns.info",
+    "ns3-34.azure-dns.org",
+    "ns2-34.azure-dns.net",
+    "ns1-34.azure-dns.com",
+    "nse13.o365filtering.com",
+    "nse12.o365filtering.com",
+    "nse21.o365filtering.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": [
+    "domainabuse@cscglobal.com",
+    "domains@microsoft.com",
+    "msnhst@microsoft.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Administrator",
+  "org": "Microsoft Corporation",
+  "address": "One Microsoft Way",
+  "city": "Redmond",
+  "state": "WA",
+  "zipcode": "98052",
+  "country": "US"
+}

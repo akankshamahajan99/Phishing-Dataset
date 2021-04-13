@@ -1,0 +1,48 @@
+{
+  "domain_name": [
+    "IGN.COM",
+    "ign.com"
+  ],
+  "registrar": "CSC CORPORATE DOMAINS, INC.",
+  "whois_server": "whois.corporatedomains.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-25 04:34:35",
+    "2020-10-21 10:32:18"
+  ],
+  "creation_date": [
+    "1998-07-25 04:00:00",
+    "1998-07-25 00:00:00"
+  ],
+  "expiration_date": [
+    "2026-07-24 04:00:00",
+    "2026-07-24 00:00:00"
+  ],
+  "name_servers": [
+    "NS-1421.AWSDNS-49.ORG",
+    "NS-1639.AWSDNS-12.CO.UK",
+    "NS-184.AWSDNS-23.COM",
+    "NS-865.AWSDNS-44.NET",
+    "ns-1421.awsdns-49.org",
+    "ns-1639.awsdns-12.co.uk",
+    "ns-184.awsdns-23.com",
+    "ns-865.awsdns-44.net"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "domainabuse@cscglobal.com",
+    "hostmaster@ziffdavis.com",
+    "dns-admin@cscglobal.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Corporate Counsel",
+  "org": "IGN Entertainment Inc.",
+  "address": "625 2nd Street",
+  "city": "San Francisco",
+  "state": "CA",
+  "zipcode": "94107",
+  "country": "US"
+}

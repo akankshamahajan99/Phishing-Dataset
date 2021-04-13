@@ -1,0 +1,38 @@
+{
+  "domain_name": [
+    "SENYO.COM",
+    "senyo.com"
+  ],
+  "registrar": "DREAMHOST",
+  "whois_server": "WHOIS.DREAMHOST.COM",
+  "referral_url": null,
+  "updated_date": "2020-05-21 21:06:33",
+  "creation_date": "1998-07-24 04:00:00",
+  "expiration_date": "2021-07-23 04:00:00",
+  "name_servers": [
+    "NS1.DREAMHOST.COM",
+    "NS2.DREAMHOST.COM",
+    "NS3.DREAMHOST.COM"
+  ],
+  "status": [
+    "ok https://icann.org/epp#ok",
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "emails": [
+    "99y4gyuwa5q2bul@proxy.dreamhost.com",
+    "8szsndq7vswjsfr@proxy.dreamhost.com",
+    "b3zfwryuthbayem@proxy.dreamhost.com",
+    "DOMAIN-ABUSE@DREAMHOST.COM"
+  ],
+  "dnssec": "unsigned",
+  "name": "Proxy Protection LLC",
+  "org": "Proxy Protection LLC",
+  "address": [
+    "417 Associated Rd #324",
+    "C/O senyo.com"
+  ],
+  "city": "Brea",
+  "state": "CA",
+  "zipcode": "92821",
+  "country": "US"
+}

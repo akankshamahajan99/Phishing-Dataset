@@ -1,0 +1,43 @@
+{
+  "domain_name": [
+    "CURRENTREALESTATETRENDS.COM",
+    "currentrealestatetrends.com"
+  ],
+  "registrar": "NameSilo, LLC",
+  "whois_server": "whois.namesilo.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-06-01 15:51:21",
+    "2020-11-02 07:00:00"
+  ],
+  "creation_date": [
+    "2017-06-28 18:37:50",
+    "2017-06-28 07:00:00"
+  ],
+  "expiration_date": [
+    "2021-06-28 18:37:50",
+    "2021-06-28 07:00:00"
+  ],
+  "name_servers": [
+    "NS1.SITEGROUND183.COM",
+    "NS2.SITEGROUND183.COM",
+    "ns1.siteground183.com",
+    "ns2.siteground183.com"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@namesilo.com",
+    "pw-bfeeac7f1388329f4efd62cff536a00e@privacyguardian.org"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Administrator",
+  "org": "See PrivacyGuardian.org",
+  "address": "1928 E. Highland Ave. Ste F104 PMB# 255",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zipcode": "85016",
+  "country": "US"
+}

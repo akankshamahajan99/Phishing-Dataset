@@ -1,0 +1,31 @@
+{
+  "domain_id": "PANDI-DO8571",
+  "domain_name": "bercaniaga.co.id",
+  "creation_date": "2000-11-01 13:09:11",
+  "expiration_date": "2021-09-01 00:09:09",
+  "updated_date": "2020-08-29 18:09:08",
+  "dnssec": "Unsigned",
+  "registrar": "PT Biznet Gio Nusantara",
+  "registrar_city": "Jakarta Pusat",
+  "registrar_postal_code": "10220",
+  "registrar_country": "ID",
+  "registrar_phone": "+62215714567",
+  "registrar_email": null,
+  "status": "ok",
+  "registrant_id": null,
+  "registrant_name": null,
+  "registrant_org": null,
+  "registrant_address": null,
+  "registrant_address2": null,
+  "registrant_address3": null,
+  "registrant_city": null,
+  "registrant_country": null,
+  "registrant_postal_code": null,
+  "registrant_phone": null,
+  "registrant_fax": null,
+  "registrant_email": null,
+  "name_servers": [
+    "ns41.niagahoster.com",
+    "ns42.niagahoster.com"
+  ]
+}

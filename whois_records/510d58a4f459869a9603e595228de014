@@ -1,0 +1,19 @@
+{
+  "domain_name": "bellicapelliweb.it",
+  "creation_date": "2005-05-31 00:00:00",
+  "updated_date": "2020-08-18 00:41:58",
+  "expiration_date": "2021-08-02 00:00:00",
+  "status": "ok",
+  "name_servers": "dns1.ergonet-dns.it\n  dns1.ergonet-dns.com\n  dns1.ergonet-dns.net",
+  "registrant_organization": "Bellicapelli Snc",
+  "registrant_address": "Via Giuseppe Contadini,18",
+  "admin_address": "Via Giuseppe Contadini,18",
+  "admin_organization": "hidden",
+  "admin_name": "hidden",
+  "tech_address": "Via Giuseppe Contadini,18",
+  "tech_organization": "Ergonet srl",
+  "tech_name": "Ergonet srl",
+  "registrar_address": null,
+  "registrar": "Ergonet s.r.l.",
+  "registrar_name": "ERGONET-REG"
+}

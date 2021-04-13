@@ -1,0 +1,41 @@
+{
+  "domain_name": "JAMESHOWARDMUSIC.COM",
+  "registrar": "GoDaddy.com, LLC",
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-07-02 02:35:26",
+    "2020-07-01 19:35:25"
+  ],
+  "creation_date": [
+    "2003-06-28 01:33:54",
+    "2003-06-27 20:33:54"
+  ],
+  "expiration_date": [
+    "2021-06-28 01:33:54",
+    "2021-06-27 20:33:54"
+  ],
+  "name_servers": [
+    "DNS1.NAMECHEAPHOSTING.COM",
+    "DNS2.NAMECHEAPHOSTING.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Laughingmanmusic",
+  "address": null,
+  "city": null,
+  "state": "Washington",
+  "zipcode": null,
+  "country": "US"
+}

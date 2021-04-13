@@ -1,0 +1,20 @@
+{
+  "domain_name": "ns11-wistee.fr",
+  "registrar": "WISTEE",
+  "creation_date": "2008-07-30 16:17:21",
+  "expiration_date": "2022-03-11 14:00:26",
+  "name_servers": [
+    "dns-ns11.wistee.fr",
+    "dns-ns1.wistee.fr"
+  ],
+  "status": [
+    "ACTIVE",
+    "ok",
+    "not identified"
+  ],
+  "emails": [
+    "support@wistee.fr",
+    "nic@nic.fr"
+  ],
+  "updated_date": "2021-03-11 14:39:58"
+}

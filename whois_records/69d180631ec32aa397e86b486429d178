@@ -1,0 +1,31 @@
+{
+  "domain_name": "RRP-MFG.COM",
+  "registrar": "Network Solutions, LLC",
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-11-02 18:16:01",
+    "2019-03-16 06:49:08"
+  ],
+  "creation_date": "2000-05-15 23:53:03",
+  "expiration_date": "2022-05-15 23:53:03",
+  "name_servers": [
+    "NS4.CORECOMMHOSTING.COM",
+    "NS5.CORECOMMHOSTING.COM"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@web.com",
+    "jfreiburger@rrp-mfg.com",
+    "jfreiburger@RRP-SEM.COM",
+    "nature4me@frontier.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "REACTIVE RESIN PRODUCTS",
+  "org": "REACTIVE RESIN PRODUCTS",
+  "address": "327 5TH ST",
+  "city": "PERRYSBURG",
+  "state": "OH",
+  "zipcode": "43551-4919",
+  "country": "US"
+}

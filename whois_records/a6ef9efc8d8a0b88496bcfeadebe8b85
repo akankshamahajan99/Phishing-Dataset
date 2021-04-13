@@ -1,0 +1,16 @@
+{
+  "domain_name": "bredbandsbolaget.se",
+  "registrant_name": "domtel3430-00001",
+  "creation_date": "1999-11-19 00:00:00",
+  "updated_date": "2021-02-10 00:00:00",
+  "expiration_date": "2022-02-19 00:00:00",
+  "transfer_date": "2019-05-23 00:00:00",
+  "name_servers": [
+    "a.ns.bredbandsbolaget.se 195.54.122.193",
+    "b.ns.bredbandsbolaget.se 195.54.122.194",
+    "c.ns.bredbandsbolaget.se 81.26.229.2"
+  ],
+  "dnssec": "unsigned delegation",
+  "status": "ok",
+  "registrar": "CSC Corp Domains"
+}

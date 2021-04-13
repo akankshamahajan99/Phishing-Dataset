@@ -1,0 +1,15 @@
+{
+  "domain_name": "AURAFORM.COM.AU",
+  "updated_date": "2021-03-04 04:00:42",
+  "registrar": "GoDaddy.com LLC trading as GoDaddy.com",
+  "status": [
+    "clientDeleteProhibited https://afilias.com.au/get-au/whois-status-codes#clientDeleteProhibited",
+    "clientUpdateProhibited https://afilias.com.au/get-au/whois-status-codes#clientUpdateProhibited"
+  ],
+  "registrant_name": "GATES, NICHOLAS JAMES",
+  "registrant_contact_name": "Nick Gates",
+  "name_servers": [
+    "NS22.DOMAINCONTROL.COM",
+    "NS21.DOMAINCONTROL.COM"
+  ]
+}

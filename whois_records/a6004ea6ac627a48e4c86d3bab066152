@@ -1,0 +1,78 @@
+{
+  "domain_name": [
+    "treeofus.biz",
+    "TREEOFUS.BIZ"
+  ],
+  "domain__id": "D33598584-BIZ",
+  "registrar": "GoDaddy.com, LLC",
+  "registrar_url": [
+    "whois.godaddy.com",
+    "http://www.godaddy.com"
+  ],
+  "registrar_id": "146",
+  "registrar_email": "abuse@godaddy.com",
+  "registrar_phone": "+1.4806242505",
+  "status": [
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "registrant_id": "REDACTED FOR PRIVACY",
+  "registrant_name": "REDACTED FOR PRIVACY",
+  "registrant_address": "REDACTED FOR PRIVACY",
+  "registrant_city": "REDACTED FOR PRIVACY",
+  "registrant_state_province": "Florida",
+  "registrant_postal_code": "REDACTED FOR PRIVACY",
+  "registrant_country": "US",
+  "registrant_country_code": null,
+  "registrant_phone_number": "REDACTED FOR PRIVACY",
+  "registrant_email": [
+    "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+    "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=TREEOFUS.BIZ"
+  ],
+  "admin_id": "REDACTED FOR PRIVACY",
+  "admin_name": "REDACTED FOR PRIVACY",
+  "admin_organization": "REDACTED FOR PRIVACY",
+  "admin_address": "REDACTED FOR PRIVACY",
+  "admin_city": "REDACTED FOR PRIVACY",
+  "admin_state_province": "REDACTED FOR PRIVACY",
+  "admin_postal_code": "REDACTED FOR PRIVACY",
+  "admin_country": "REDACTED FOR PRIVACY",
+  "admin_phone_number": "REDACTED FOR PRIVACY",
+  "admin_email": [
+    "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+    "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=TREEOFUS.BIZ"
+  ],
+  "tech_id": "REDACTED FOR PRIVACY",
+  "tech_name": "REDACTED FOR PRIVACY",
+  "tech_organization": "REDACTED FOR PRIVACY",
+  "tech_address": "REDACTED FOR PRIVACY",
+  "tech_city": "REDACTED FOR PRIVACY",
+  "tech_state_province": "REDACTED FOR PRIVACY",
+  "tech_postal_code": "REDACTED FOR PRIVACY",
+  "tech_country": "REDACTED FOR PRIVACY",
+  "tech_phone_number": "REDACTED FOR PRIVACY",
+  "tech_email": [
+    "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+    "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=TREEOFUS.BIZ"
+  ],
+  "name_servers": [
+    "ns2.aspnix.com",
+    "ns3.aspnix.com",
+    "ns1.aspnix.com",
+    "NS1.ASPNIX.COM",
+    "NS2.ASPNIX.COM",
+    "NS3.ASPNIX.COM"
+  ],
+  "creation_date": "2009-09-12 21:08:06",
+  "expiration_date": "2021-09-11 23:59:59",
+  "updated_date": [
+    "2020-09-17 13:35:21",
+    "2020-09-12 06:35:17"
+  ]
+}

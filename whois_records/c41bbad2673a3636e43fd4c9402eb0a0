@@ -1,0 +1,49 @@
+{
+  "domain_name": "ucoz.ua",
+  "status": [
+    "clientTransferProhibited",
+    "ok",
+    "linked"
+  ],
+  "registrar": "\u0422\u041e\u0412 \"\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0406\u043d\u0432\u0435\u0441\u0442\"",
+  "registrar_name": "ua.imena",
+  "registrar_url": "http://www.imena.ua",
+  "registrar_country": "UA",
+  "registrar_city": "Kyiv",
+  "registrar_address": "Ukraine 01033 Kyiv Gaydara str., h 50 B, 2d floor",
+  "registrar_email": "abuse@imena.ua",
+  "registrant_name": "not published",
+  "registrant_country": null,
+  "registrant_city": null,
+  "registrant_state": null,
+  "registrant_address": "not published",
+  "registrant_email": "not published",
+  "registrant_postal_code": null,
+  "registrant_phone": "not published",
+  "registrant_fax": null,
+  "admin": "not published",
+  "admin_country": null,
+  "admin_city": null,
+  "admin_state": null,
+  "admin_address": "not published",
+  "admin_email": "not published",
+  "admin_postal_code": null,
+  "admin_phone": "not published",
+  "admin_fax": null,
+  "updated_date": [
+    "2020-07-17 13:34:05",
+    "2016-02-18 17:45:17",
+    "2016-02-18 17:45:18"
+  ],
+  "creation_date": [
+    "2007-07-25 19:49:42",
+    "2016-02-18 17:43:56",
+    "2016-02-18 17:43:57",
+    "2016-02-18 17:43:58"
+  ],
+  "expiration_date": "2021-07-25 19:49:42",
+  "name_servers": [
+    "ns1.ucoz.ru",
+    "ns2.ucoz.ru"
+  ]
+}

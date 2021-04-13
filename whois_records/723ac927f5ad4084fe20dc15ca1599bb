@@ -1,0 +1,40 @@
+{
+  "domain_name": [
+    "MERCHANTCITYYOGA.COM",
+    "merchantcityyoga.com"
+  ],
+  "registrar": "1&1 IONOS SE",
+  "whois_server": "whois.ionos.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-10-19 07:15:33",
+    "2019-10-19 07:20:01"
+  ],
+  "creation_date": "2010-10-18 12:00:17",
+  "expiration_date": "2021-10-18 12:00:17",
+  "name_servers": [
+    "NS1.STACKDNS.COM",
+    "NS2.STACKDNS.COM",
+    "NS3.STACKDNS.COM",
+    "NS4.STACKDNS.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@ionos.com",
+    "dataprivacyprotected@1und1.de"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "REDACTED FOR PRIVACY",
+  "org": "Caddie & Co",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": null,
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "GB"
+}
